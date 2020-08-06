@@ -20,6 +20,7 @@ public class HelloServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		out.write("<html><body>");
 		out.write("<h1>Who is beter</h1>");
+		out.write("<h1>Who is beter</h1>");
 		out.write("<h2>Moosewalla is better than Karan Aujla</h2>");
 		out.write("</body></html>");
 	}
@@ -28,3 +29,4 @@ public class HelloServlet extends HttpServlet {
 	
 
 }
+ 
