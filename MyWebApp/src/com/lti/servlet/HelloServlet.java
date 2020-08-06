@@ -19,6 +19,7 @@ public class HelloServlet extends HttpServlet {
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
 		out.write("<html><body>");
+		//I added a comment
 		out.write("<h1>Who is beter</h1>");
 		out.write("<h1>Who is beter</h1>");
 		out.write("<h2>Moosewalla is better than Karan Aujla</h2>");
