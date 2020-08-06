@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class HelloServlet
+ * Servlet implementation class HelloServlet//
  */
 @WebServlet("/shitisreal.exe")
 public class HelloServlet extends HttpServlet {
